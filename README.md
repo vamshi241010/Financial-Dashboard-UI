@@ -69,6 +69,6 @@ npm run dev
 
 ## Links
 
-Live Demo: YOUR_VERCEL_LINK
+Live Demo: https://financial-dashboard-ui-chi.vercel.app/
 
-GitHub Repository: YOUR_GITHUB_LINK
+GitHub Repository: https://github.com/vamshi241010/Financial-Dashboard-UI
